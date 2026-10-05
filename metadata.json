@@ -1,0 +1,7 @@
+{
+  "name": "Resonance — Internet Music Sharing & Community",
+  "description": "Stream, produce, record, and share audio tracks, beat loops, and live radio with an open sonic community.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
